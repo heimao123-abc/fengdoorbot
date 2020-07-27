@@ -4,9 +4,9 @@
 ## 这是一个开源项目，峰哥出品
   本项目使用GNU GPL许可，任何使用本代码的作品必需使用相同的许可分发。
 # Telegram 电报聊天群管理机器人	
-最新的代码会布署到 @FengDoorBot 机器人上， 欢迎使用
-如果对本机器人有什么意见或建议，可以给我留言，也可以加入我的Telegram 电报群  https://t.me/fengsharegroup
-想学习怎么开发机器人的，请看我的Youtube发的视频[教程](https://www.dengnz.com/2019/03/01/%E6%9C%AC%E6%9C%BA%E8%87%AA%E5%BB%BAmongo-db-restheart-%E6%9C%8D%E5%8A%A1%E5%99%A8/)
+最新的代码会布署到 @k1tten_bot 机器人上， 欢迎使用
+如果对本机器人有什么意见或建议，可以给我留言
+想学习怎么开发机器人的，请看我叉过来的Youtube发的视频[教程](https://www.dengnz.com/2019/03/01/%E6%9C%AC%E6%9C%BA%E8%87%AA%E5%BB%BAmongo-db-restheart-%E6%9C%8D%E5%8A%A1%E5%99%A8/)
 
 # 功能
 ## 欢迎消息
@@ -24,7 +24,7 @@
 - 验证过后，验证消息自毁
 
 ## 更多功能添加中， 欢迎有兴趣的小伙伴加入，欢迎 Pull Request
-- 有兴趣的朋友加我的Telegram 电报群 https://t.me/fengsharegroup
+- 有兴趣的朋友加我的Telegram Bot @k1tten_bot
 - 本说明中不明确或错误之处，请有编辑权限的开发人员一起编辑完善， 比如我没有考虑到的一些新手容易碰到的问题
 
 # 如何使用此代码创建自己的机器人
