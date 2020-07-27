@@ -7,7 +7,7 @@ Const.useMlab = false;
 //Debug
 Const.botToken = "1297296612";
 Const.myId = parseInt(Const.botToken.split(":")[0]);
-Const.myName = "k1tten_bot";
+Const.myName = "@k1tten_bot";
 Const.myName = Const.myName.toLowerCase();
 
 //以下是峰哥的数据库服务器，可以工作，可以用，没有数据库的可以保留
